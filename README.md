@@ -6,7 +6,7 @@
 
 # 📖 Readme
 
-Bienvenue TODO EL MUNDO dans le Readme du projet !
+Bienvenue dans le Readme du projet !
 Vous trouverez ici des ressources en **français** et en **anglais**.
 
 ---
